@@ -1,3 +1,3 @@
 # **Lenin-Muñoz**
 
-Link tablero de trello: [Tablero_Desafio](https://trello.com/invite/b/6798ea68b863174c2e0da59a/ATTI25734184614ca8563f362c152d92f190690E3191/tablerodesafio)
+Link tablero de Trello: [Tablero_Desafio](https://trello.com/invite/b/6798f294489b2df5f8c4e647/ATTI54974d40d19e740ff1dee38a4c2600b9342E0C51/tablerodesafio)
